@@ -1,15 +1,9 @@
---    #    ####### #          #    #     # #######    #        #####   #####  ######  ### ######  #######  #####
---   # #      #    #         # #   ##    #    #      # #      #     # #     # #     #  #  #     #    #    #     #
---  #   #     #    #        #   #  # #   #    #     #   #     #       #       #     #  #  #     #    #    #
--- #     #    #    #       #     # #  #  #    #    #     #     #####  #       ######   #  ######     #     #####
--- #######    #    #       ####### #   # #    #    #######          # #       #   #    #  #          #          #
--- #     #    #    #       #     # #    ##    #    #     #    #     # #     # #    #   #  #          #    #     #
--- #     #    #    ####### #     # #     #    #    #     #     #####   #####  #     # ### #          #     #####
+- Made by Atlanta Scripts - chriis
+- Discord Server: https://discord.gg/sCMKeZHxS5
+- Tebex link: https://atlanta-scripts.tebex.io/
 
--- DISCORD SERVER: https://discord.gg/sCMKeZHxS5
-
- -- ox_inventory - data - items.lua
- -- Item picture is in the image folder
+-- ox_inventory - data - items.lua
+-- Item picture is in the image folder
  
 	['spraycan'] = {
 		label = 'Spray Can',
@@ -20,6 +14,3 @@
 	}
 
 
-- Made by Atlanta Scripts - chriis
-- Discord Server: https://discord.gg/sCMKeZHxS5
-- Tebex link: https://atlanta-scripts.tebex.io/
